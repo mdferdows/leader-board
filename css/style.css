@@ -11,8 +11,7 @@ body{
 }
 /* nav section */
 nav{
-    background: rgba(153, 140, 140, 0.082);
-    
+    margin-bottom: 30px;
 }
 nav .top_nav{
     display: flex;
@@ -20,6 +19,7 @@ nav .top_nav{
     align-items: center;
     height: 94px;
     background: #562EFF;
+
     
 }
 .logo_items{
@@ -57,7 +57,8 @@ nav .top_nav{
 }
 /* main section */
 main{
-   background: #E5E5E5;;
+   background: #E5E5E5;
+   margin-bottom: 30px;
 }
 .container{
     background:#fff;
