@@ -69,6 +69,9 @@ main{
 .top_players{
     margin-bottom: 30px;
 }
+.top_players .heading_text{
+    margin-bottom: 40px;
+}
 hr{
     border: 1px solid #D1D1D1;
 }
